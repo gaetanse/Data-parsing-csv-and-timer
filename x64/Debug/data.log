@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\gaetan\source\repos\data\data\main.c(30,17): warning C4244: 'return' : conversion de 'time_t' en 'int', perte possible de données
+C:\Users\gaetan\source\repos\data\data\main.c(41,24): warning C4013: 'readDataFromCsv' non défini(e) ; extern retournant int pris par défaut
+C:\Users\gaetan\source\repos\data\data\main.c(42,67): warning C4244: 'fonction' : conversion de 'time_t' en 'clock_t', perte possible de données
+C:\Users\gaetan\source\repos\data\data\main.c(77): warning C4716: 'readDataFromCsv' : doit retourner une valeur
+  data.vcxproj -> C:\Users\gaetan\source\repos\data\x64\Debug\data.exe
